@@ -312,9 +312,9 @@ hr{
   width:100%;
 }
 
-.arrow{
-  text-decoration: none;
- }
+
+
+  
  #aro{
   width: 20%;
   
@@ -322,3 +322,9 @@ hr{
  .hom{
   font-size: 30px;
  }
+
+ .fa-arrow-right {
+  text-decoration: none;
+  color: #ccc;
+  font-size: 1.8em; /* Adjust the size as needed */
+}
